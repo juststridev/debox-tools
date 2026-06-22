@@ -1,1 +1,1 @@
-export const env={"PUBLIC_POSTHOG_HOST":"https://us.i.posthog.com","PUBLIC_POSTHOG_KEY":"phc_rqY5EgzjQ92GHrpMDnfVsFsjBAGTUL5hitdvkDDjWaXS"}
+export const env={"PUBLIC_GA_MEASUREMENT_ID":""}

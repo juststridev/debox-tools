@@ -1,16 +1,19 @@
-# Debox Tools - v1.0.0 (Pre-built Release)
+# DeboxHub - v1.1.0 (Pre-built Release)
 
-A blazing-fast, offline-capable, and 100% client-side collection of essential developer tools. Built with Svelte 5 and designed with an uncompromising focus on performance and privacy.
+A blazing-fast, offline-capable, and highly extensible collection of essential developer tools. 
 
-**Note:** This is the **pre-built static release** of Debox Tools. It contains production-ready static assets (HTML/CSS/JS) and requires no build steps or backend servers.
+**Note:** This is the **pre-built static release** of DeboxHub. It contains production-ready static assets (HTML/CSS/JS) and requires no build steps or backend servers.
 
 ## ✨ Features
 
 - **🔒 100% Privacy-First:** All processing (formatting, converting, generating) happens locally inside your browser. No data leaves your machine.
-- **🛠️ 12 Built-in Tools:** Base64, URL Encode/Decode, JSON Formatter, HTML/SQL/XML Beautifiers, CSS Gradient Generator, SVG Optimizer, and more.
-- **⚡ Lightning Fast:** Powered by Svelte 5 Runes for optimal reactivity.
-- **🔍 Command Palette:** Press `⌘K` or `Ctrl+K` to instantly search and jump to any tool.
-- **🌓 Dark Mode & Layouts:** Sleek dark mode support and seamless toggling between horizontal and vertical layouts.
+- **🛠️ 20+ Built-in Tools:** Base64, URL Encode/Decode, JSON Formatter, QR Code Generator, Image Color Extractor, AES/DES Encryptor, CSS Gradient Generator, DateConverter and more.
+- **⚡ Lightning Fast:** Powered by pre-compiled Svelte for optimal reactivity.
+- **🧠 Smart Quick Parse:** Automatically detects input types (JSON, Base64, HTML, URL).
+- **💾 Auto-Persistence:** Every tool is equipped with a smart storage engine. Your input and configurations are automatically saved locally.
+- **🎨 Minimalist Visual Identity:** DeboxHub strictly adheres to a minimalist visual branding.
+- **🔐 Robust Tool Suites:** Includes comprehensive Workspaces for Code Formatting, Security (AES/DES Encryption), Comparators, and Web utilities.
+- **🌓 Appearance Modes:** Full support for Light, Dark, and System modes.
 
 ## 🚀 How to Run (Local Deployment)
 
@@ -46,5 +49,5 @@ Simply copy the contents of this folder into your web server's public root direc
 
 ## ⚙️ Configuration & Analytics
 
-- **Zero Tracking:** This public release has been stripped of all analytics and tracking scripts (e.g., PostHog). It respects your privacy 100%.
+- **Zero Tracking:** This public release has been stripped of all analytics and tracking scripts (e.g., Google Analytics). It respects your privacy 100%.
 - **Local Storage:** Your settings (Theme, Layout preference, Favorite tools) are saved locally in your browser's `localStorage` and will automatically persist across sessions.
