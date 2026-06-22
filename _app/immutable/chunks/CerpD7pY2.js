@@ -1,0 +1,1 @@
+var e={init:()=>{},capture:()=>{}};export{e as default};
