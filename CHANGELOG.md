@@ -2,6 +2,22 @@
 
 This document outlines the major, user-facing changes and updates to DeboxHub. For detailed internal technical changes, please refer to `CHANGELOG.md`.
 
+## [1.1.1] - 2026-06-23
+
+### 🚀 What's New
+- **2 New Tools Added**:
+- **OTP/2FA Generator**: Generate TOTP/HOTP two-factor authentication codes securely and entirely offline, complete with algorithm configuration and real-time hex payload insights.
+- **Shell Explainer**: Explains over 99 command-line utilities to help you understand complex terminal commands instantly.
+
+### ✨ Improvements
+- **Layout Enhancements**: Improved the main Header, Sidebar behavior, and Category Navigation for a smoother browsing experience.
+- **JSON Formatter**: Added a new options formatter functionality to give users more control over JSON formatting rules.
+
+### 🐛 Bug Fixes
+- **UI Stability**: Fixed layout jumping issues when switching between tools.
+
+---
+
 ## [1.1.0] - 2026-06-22
 
 **📢 Rebranding Announcement**

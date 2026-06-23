@@ -117,7 +117,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://deboxhub.com/otp-2fa-generator</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://deboxhub.com/chmod-calculator</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://deboxhub.com/shell-explainer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
