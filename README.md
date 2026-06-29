@@ -1,4 +1,4 @@
-# DeboxHub - v1.1.0 (Pre-built Release)
+# DeboxHub - v1.1.2 (Pre-built Release)
 
 A blazing-fast, offline-capable, and highly extensible collection of essential developer tools. 
 
@@ -7,12 +7,12 @@ A blazing-fast, offline-capable, and highly extensible collection of essential d
 ## ✨ Features
 
 - **🔒 100% Privacy-First:** All processing (formatting, converting, generating) happens locally inside your browser. No data leaves your machine.
-- **🛠️ 20+ Built-in Tools:** Base64, URL Encode/Decode, JSON Formatter, QR Code Generator, Image Color Extractor, AES/DES Encryptor, CSS Gradient Generator, DateConverter and more.
+- **🛠️ 22+ Built-in Tools:** Base64, URL Encode/Decode, JSON Formatter, OTP/2FA Generator, Shell Explainer, URL Parser, QR Code Generator, Image Color Extractor, AES/DES Encryptor, CSS Gradient Generator, DateConverter and more.
 - **⚡ Lightning Fast:** Powered by pre-compiled Svelte for optimal reactivity.
 - **🧠 Smart Quick Parse:** Automatically detects input types (JSON, Base64, HTML, URL).
 - **💾 Auto-Persistence:** Every tool is equipped with a smart storage engine. Your input and configurations are automatically saved locally.
 - **🎨 Minimalist Visual Identity:** DeboxHub strictly adheres to a minimalist visual branding.
-- **🔐 Robust Tool Suites:** Includes comprehensive Workspaces for Code Formatting, Security (AES/DES Encryption), Comparators, and Web utilities.
+- **🔐 Robust Tool Suites:** Includes comprehensive Workspaces for Code Formatting, Security (AES/DES Encryption, OTP/2FA), Comparators, and Web utilities (URL Parser, Shell Explainer).
 - **🌓 Appearance Modes:** Full support for Light, Dark, and System modes.
 
 ## 🚀 How to Run (Local Deployment)

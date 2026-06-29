@@ -2,6 +2,22 @@
 
 This document outlines the major, user-facing changes and updates to DeboxHub. For detailed internal technical changes, please refer to `CHANGELOG.md`.
 
+## [1.1.2] - 2026-06-29
+
+### 🚀 What's New
+- **URL Parser Tool**: Added a URL parser and explorer for inspecting parameters and properties.
+- **Editor Enhancements**: Added word wrap support and a toggle button for switching editor modes.
+
+### ✨ Improvements
+- **SEO & UI**: Updated page titles and meta descriptions for better search visibility. Improved warning styling on the home page for both desktop and mobile.
+- **Accessibility**: Added ARIA labels for select fields to better assist screen readers.
+
+### 🐛 Bug Fixes
+- **Search Navigation**: Fixed an issue where pressing the Enter key in the search feature directed users to the wrong page.
+- **UI Elements**: Fixed a CSS class name issue that prevented the collapse icon from displaying correctly.
+
+---
+
 ## [1.1.1] - 2026-06-23
 
 ### 🚀 What's New
